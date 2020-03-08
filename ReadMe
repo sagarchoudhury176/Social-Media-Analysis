@@ -1,0 +1,13 @@
+-> Python Version Requirement: Python 3.6
+
+-> Libraries Requirement:
+
+1) networkx
+2) matplotlib
+3) numpy
+4) community
+5) scipy
+
+-> Dataset required in '.txt' file format. The graph should be undirected and weighted.
+
+_____________________________________________________________________________________________
